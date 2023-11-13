@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.edu{
+   
+    background-color:#424245 ;
+}
+.ed{
+    color: #d3d3d4;
+}
+.ed:hover{
+    text-decoration: underline;
+}
+.bga{
+    background-color:#323233;   
+}
+.ha{
+    background-image: url(images/hero_iphone14pro__e5xbgo5ffhg2_medium_2x\ \(1\).jpg);
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.hab{
+    background-image: url(images/hero_iphone14_preorder__c4g2wjzuugqe_small_2x.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.hac{
+    background-image: url(images/3\ watch.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.had{
+    background-image: url(images/4airpad.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.haf{
+    background-image: url(images/hero_apple_watch_series_8__bjc1ok5mkjua_small_2x.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.hag{
+    background-image: url(images/watch\ images.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.hai{
+    background-image: url(images/fitness.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.bot{
+    position: absolute;
+    bottom: 15px;
+    right: 90px;
+}
+.ham{
+    background-image: url(images/lap.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.han{
+    background-image: url(images/tab.jpg);
+    height: 520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.animation{
+    background-image: url('animation/za.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 600px;
+   animation: slider 15s infinite linear;
+  }
+
+  @keyframes slider {
+     0%{background-image: url(animation/za.jpg)};
+    15%{background-image: url(animation/zb.jpg)};
+    30%{background-image: url(animation/zc.jpg)};
+     45%{background-image: url(animation/zf.jpg)};
+     60%{background-image: url(animation/zg.jpg)};
+     75%{background-image: url(animation/zs.jpg)};
+     90%{background-image: url(animation/zh.jpg)};
+      }
+
+section a{
+        text-decoration: none;
+    }
+    section a:hover{
+        text-decoration: underline;
+    }
+ footer a{
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+
+.foot p{
+font-size: 13px;
+color:#939397;
+}
+.foot a{
+    color:#4f4f52;
+    font-size: 13px;
+}
+.way a{
+    color: #0066cc;
+}
